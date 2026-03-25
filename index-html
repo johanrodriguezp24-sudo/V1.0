@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mis Proyectos</title>
+  <style>
+    body{
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      text-align: center;
+      margin-top: 80px;
+    }
+
+```
+h1{
+  margin-bottom: 40px;
+}
+
+.menu a{
+  display: block;
+  width: 220px;
+  margin: 20px auto;
+  padding: 15px;
+  background: #2c7be5;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 18px;
+}
+
+.menu a:hover{
+  background: #1a5edb;
+}
+```
+
+  </style>
+</head>
+
+<body>
+
+  <h1>Menú de Proyectos</h1>
+
+  <div class="menu">
+    <a href="Formulario/index.html">Formulario</a>
+    <a href="Hoja de vida/index.html">Hoja de Vida</a>
+  </div>
+
+</body>
+</html>
